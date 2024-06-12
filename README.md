@@ -1,5 +1,5 @@
 # Carros e Bicicletas
- projetos de HTML e CSS do curso Origamid.
+ Projetos de HTML e CSS do curso Origamid.
 
 ### O que é o Site Carros e Bicicletas?
 
